@@ -1,2 +1,2 @@
-# basics-fo-python
+# basics-for-python
 for learning purpose
